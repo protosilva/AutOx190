@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\MochaSoft\mtn5250\Version 1.0\10]
+"use_cv"=dword:00000001
